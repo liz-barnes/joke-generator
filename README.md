@@ -4,4 +4,4 @@ pls dont open I am very embarrassed.
 
 https://practical-wozniak-85e099.netlify.app
 
-(app-screenshot.png)
+![Authorized view](./images/app-screenshot.png)
